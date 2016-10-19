@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "title": "GDIW Recipes for Bergius Process",
   "author": "fandingo",
-  "homepage": "",
+  "homepage": "https://github.com/fandingo/GDIW_Bergius",
   "contact": "justin.brown@fandingo.org",
   "description": "GDIW creates chiral (reversible) recipes for oil. GDIW_Bergius adds chiral recipes for the Bergius Process mod. Requires Bergius Process and GDIW.",
   "factorio_version":"0.14",
